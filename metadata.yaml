@@ -1,0 +1,30 @@
+_repo: Buddhism-in-the-Modern-World_44607
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saunders, Kenneth J. (Kenneth James)
+    aliases:
+    - Saunders, Kenneth James
+    - Saunders, K. J. (Kenneth James)
+    birthdate: 1883
+    deathdate: 1937
+    gutenberg_agent_id: '42834'
+    url: http://www.gutenberg.org/2009/agents/42834
+description: ''
+gutenberg_issued: '2014-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44607'
+  lccn: '23004580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Buddhism'
+title: Buddhism in the Modern World
+url: http://www.gutenberg.org/ebooks/44607
